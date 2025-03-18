@@ -83,8 +83,8 @@
 
 //#include "def/DEFAULT.h"
 
-//#include "def/Altherma(EBLA-EDLA D series 4-8kW Monobloc).h"
-#include "def/Altherma(EBLA-EDLA D series 9-16kW Monobloc).h"
+#include "def/Altherma(EBLA-EDLA D series 4-8kW Monobloc).h"
+//#include "def/Altherma(EBLA-EDLA D series 9-16kW Monobloc).h"
 //#include "def/Altherma(EGSAH-X-EWSAH-X-D series 6-10kW GEO3).h"
 //#include "def/Altherma(EGSQH-A series 10kW GEO2).h"
 //#include "def/Altherma(EPGA D EAB-EAV-EAVZ D(J) series 11-16kW).h"
